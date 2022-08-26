@@ -60,3 +60,5 @@ except Exception as e:
 excel.save('IMDB Movie Rating.xlsx')
 
 ![image](https://user-images.githubusercontent.com/58786546/186846930-5456e063-c1dc-4d95-9879-a76800f398f6.png)
+
+#Such a small piece of code to extract the data and put in the csv file
